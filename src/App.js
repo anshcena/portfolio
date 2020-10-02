@@ -70,7 +70,7 @@ render() {
                         <div className="subheading mb-3">Bachelor of Technology - Computer Science</div>
                         {/* <div>Computer Science - Web Development Track</div> */}
                     </div>
-                    <div className="flex-shrink-0"><span className="text-primary"> 2015 - 2090</span></div>
+                    <div className="flex-shrink-0"><span className="text-primary"> 2015 - 2019</span></div>
                 </div>
                 <div className="d-flex flex-column flex-md-row justify-content-between">
                     <div className="flex-grow-1">

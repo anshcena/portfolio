@@ -8,4 +8,4 @@
 ## Live URL 
 - https://anshvarun.tech
 
-**Will be converting it to Gatsby js**
+*Will be converting it to Gatsby js soon*
